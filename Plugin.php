@@ -19,7 +19,8 @@ class Plugin extends PluginBase
             'name'        => 'Strut',
             'description' => 'An impress.js and Bespoke.js Presentation Editor',
             'author'      => 'Pmietlicki',
-            'icon'        => 'icon-leaf'
+            'icon'        => 'icon-tablet',
+            'homepage'    => 'http://pascal-mietlicki.fr'
         ];
     }
 
